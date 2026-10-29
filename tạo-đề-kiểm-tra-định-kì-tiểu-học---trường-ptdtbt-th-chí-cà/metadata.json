@@ -1,0 +1,6 @@
+{
+  "name": "Tạo Đề Kiểm Tra Định Kì Tiểu Học - Trường PTDTBT TH Chí Cà",
+  "description": "Hệ thống tạo đề kiểm tra định kì Lớp 1-5 theo chương trình GDPT 2018: ma trận đề, bảng đặc tả, ngân hàng câu hỏi, kiểm tra lỗi tự động và xuất Word/PDF chuẩn A4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
